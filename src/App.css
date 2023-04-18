@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.p-input-fil{
+  padding: 10px;
+  margin-top: 20px;
+}
+.reg{
+  padding-left: 35%;
+  padding-right: 35%;
+  padding-top: 4rem;
+  position: relative;
+  display: grid;
+}
+.log{
+  justify-content: space-between;
+  
+  flex-direction: row;
+}
+
